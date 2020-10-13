@@ -1,2 +1,2 @@
 # Fundamentals-Exercise
-Fundamentals Exercise  From Java Fundamentals - September 2020
+Fundamentals Exercise  From Java Fundamentals - September 2020 SoftUni
